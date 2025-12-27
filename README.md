@@ -4,7 +4,7 @@
 ![macOS 15+](https://img.shields.io/badge/macOS-15%2B-blue)
 ![Swift 6.0](https://img.shields.io/badge/Swift-6.0-orange)
 
-A macOS text editor with **bold** and *italic* formatting that works everywhere—Twitter, Slack, plain text files.
+A macOS text editor with **bold** and *italic* formatting that works everywhere — LinkenIn, Bluesky, plain text files.
 
 ```
 Normal:      Hello World
@@ -24,7 +24,7 @@ Press ⌘R to run. Requires macOS 15+ and Xcode 16+.
 
 ## Usage
 
-Select text → ⌘B for bold, ⌘I for italic. Copy anywhere—formatting persists.
+Select text → **⌘B** for bold, _⌘I_ for italic. Copy anywhere — formatting persists.
 
 ## License
 
